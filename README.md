@@ -1,3 +1,4 @@
+![logo](https://github.com/piyush02nir/piyush02nir/blob/main/background.jpg)
 <div align="center">
   
 # Hi 👋, I'm Piyush 
