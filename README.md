@@ -8,7 +8,6 @@
 
 ## About Me
 - 🔬 Transitioning from Electrical Engineering to data field
-- 🤓 Prefer **free online resources** for continuous learning
 - :octocat: Currently working on #8WeekSQLChallenge & Python Project deployment
 - 💻 My go-to learning platforms: YouTube · Medium · Udemy · ChatGPT
 
@@ -23,3 +22,4 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
